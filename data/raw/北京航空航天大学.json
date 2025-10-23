@@ -1,0 +1,1106 @@
+{
+  "university": "北京航空航天大学",
+  "major": "计算机科学与技术专业",
+  "year": 2023,
+  "training_objectives": "未提供培养目标",
+  "graduation_reqs": {
+    "total_credits": 155.1,
+    "core_course_credits": 48.5,
+    "elective_credits": 19.0,
+    "other_requirements": "创新创业类课程至少选修4学分"
+  },
+  "courses": [
+    {
+      "course_code": "B090011001",
+      "course_name": "工科数学分析（1）",
+      "credits": 6.0,
+      "category": [
+        "基础课程",
+        "数理基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B090011010",
+      "course_name": "工科高等代数",
+      "credits": 6.0,
+      "category": [
+        "基础课程",
+        "数理基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B090011003",
+      "course_name": "工科数学分析（2）",
+      "credits": 6.0,
+      "category": [
+        "基础课程",
+        "数理基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B190011004",
+      "course_name": "基础物理学A（1）",
+      "credits": 4.0,
+      "category": [
+        "基础课程",
+        "数理基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B190011006",
+      "course_name": "基础物理学B（2）",
+      "credits": 4.0,
+      "category": [
+        "基础课程",
+        "数理基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060011001",
+      "course_name": "概率与数理模型",
+      "credits": 3.0,
+      "category": [
+        "基础课程",
+        "数理基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060012003",
+      "course_name": "程序设计基础",
+      "credits": 2.0,
+      "category": [
+        "基础课程",
+        "工程基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060012007",
+      "course_name": "离散结构",
+      "credits": 2.0,
+      "category": [
+        "基础课程",
+        "工程基础课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 16,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B020012001",
+      "course_name": "电子设计基础训练",
+      "credits": 2.0,
+      "category": [
+        "基础课程",
+        "工程基础课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060012005",
+      "course_name": "数据结构与程序设计(信息类)",
+      "credits": 3.0,
+      "category": [
+        "基础课程",
+        "工程基础课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B120013001",
+      "course_name": "大学英语A（1）",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "外语课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B120013002",
+      "course_name": "大学英语A（2）",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "外语课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B120013003",
+      "course_name": "大学英语B（1）",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "外语课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B120013004",
+      "course_name": "大学英语B（2）",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "外语课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B120013007",
+      "course_name": "英语阅读（3）",
+      "credits": 1.0,
+      "category": [
+        "通修课程",
+        "外语课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B120013008",
+      "course_name": "英语写作（3）",
+      "credits": 1.0,
+      "category": [
+        "通修课程",
+        "外语课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021001",
+      "course_name": "思想道德与法治",
+      "credits": 3.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021002",
+      "course_name": "习近平新时代中国特色社会主义思想概论",
+      "credits": 3.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021003",
+      "course_name": "中国近现代史纲要",
+      "credits": 3.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021004",
+      "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "credits": 3.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021006",
+      "course_name": "马克思主义基本原理",
+      "credits": 3.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021005",
+      "course_name": "社会实践",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 0.0,
+      "practice_hours": 80,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021007",
+      "course_name": "形势与政策（1）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 4,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021008",
+      "course_name": "形势与政策（2）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 4,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021009",
+      "course_name": "形势与政策（3）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021010",
+      "course_name": "形势与政策（4）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": 0,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021011",
+      "course_name": "形势与政策（5）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": 0,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021012",
+      "course_name": "形势与政策（6）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021015",
+      "course_name": "中国共产党历史",
+      "credits": 1.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一至三秋/春",
+      "description": "限修≥1学分",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021016",
+      "course_name": "新中国史",
+      "credits": 1.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一至三秋/春",
+      "description": "考试",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021017",
+      "course_name": "改革开放史",
+      "credits": 1.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一至三秋/春",
+      "description": "考试",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B280021018",
+      "course_name": "社会主义发展史",
+      "credits": 1.0,
+      "category": [
+        "通修课程",
+        "思政课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一至三秋/春",
+      "description": "考试",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA20022002",
+      "course_name": "军事技能",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "军理课"
+      ],
+      "hours_per_week": 0.0,
+      "practice_hours": 112,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA20022001",
+      "course_name": "军事理论",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "军理课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 4,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023001",
+      "course_name": "体育（1）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023002",
+      "course_name": "体育（2）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023003",
+      "course_name": "体育（3）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023004",
+      "course_name": "体育（4）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023005",
+      "course_name": "体育（5）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023006",
+      "course_name": "体育（6）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B310023007",
+      "course_name": "体质健康标准测试",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "体育课"
+      ],
+      "hours_per_week": 0.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B180025001",
+      "course_name": "文化体验与交流展示(1)",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "素质教育实践必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B180025002",
+      "course_name": "文化体验与交流展示(2)",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "素质教育实践必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B180025003",
+      "course_name": "时事与科技前沿思辨(1)",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "素质教育实践必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B180025004",
+      "course_name": "时事与科技前沿思辨(2)",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "素质教育实践必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B180025005",
+      "course_name": "科技及社会实践（1）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "素质教育实践必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B180025006",
+      "course_name": "科技及社会实践（2）",
+      "credits": 0.5,
+      "category": [
+        "通修课程",
+        "素质教育实践必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B140024001",
+      "course_name": "国家安全（1）",
+      "credits": 0.1,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B140024002",
+      "course_name": "国家安全（2）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B140024003",
+      "course_name": "国家安全（3）",
+      "credits": 0.1,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B140024004",
+      "course_name": "国家安全（4）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B140024005",
+      "course_name": "国家安全（5）",
+      "credits": 0.1,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B140024006",
+      "course_name": "国家安全（6）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA70024037",
+      "course_name": "心理健康（1）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 4,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA70024038",
+      "course_name": "心理健康（2）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 4,
+      "recommended_term": "一春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA70024039",
+      "course_name": "心理健康（3）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 4,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA70024040",
+      "course_name": "心理健康（4）",
+      "credits": 0.3,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 4,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA70024041",
+      "course_name": "心理健康（5）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "BA70024042",
+      "course_name": "心理健康（6）",
+      "credits": 0.2,
+      "category": [
+        "通修课程",
+        "素质教育理论必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060026001",
+      "course_name": "计算机导论与伦理学",
+      "credits": 1.5,
+      "category": [
+        "通修课程",
+        "综合素养课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "一秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B050026003",
+      "course_name": "航空航天概论B",
+      "credits": 1.5,
+      "category": [
+        "通修课程",
+        "综合素养课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 6,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B080026004",
+      "course_name": "经济管理",
+      "credits": 2.0,
+      "category": [
+        "通修课程",
+        "综合素养课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031005",
+      "course_name": "科研课堂",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031002",
+      "course_name": "离散数学",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031001",
+      "course_name": "计算机组成",
+      "credits": 5.5,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": 48,
+      "recommended_term": "二秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031006",
+      "course_name": "操作系统",
+      "credits": 4.5,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 48,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031008",
+      "course_name": "机器学习",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031011",
+      "course_name": "编译技术",
+      "credits": 4.5,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 48,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031012",
+      "course_name": "算法设计与分析",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三秋",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031017",
+      "course_name": "软件工程",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031019",
+      "course_name": "计算机网络",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031020",
+      "course_name": "计算机网络实验",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031021",
+      "course_name": "计算机科学方法论",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031018",
+      "course_name": "云计算",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060031025",
+      "course_name": "生产实习",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 0.0,
+      "practice_hours": 120,
+      "recommended_term": "三夏",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "毕业设计",
+      "course_name": "毕业设计",
+      "credits": 12.0,
+      "category": [
+        "专业课程",
+        "核心专业类"
+      ],
+      "hours_per_week": 0.0,
+      "practice_hours": 0,
+      "recommended_term": "四春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060032065",
+      "course_name": "岗位胜任力与职业准备",
+      "credits": 0.5,
+      "category": [
+        "专业课程",
+        "一般专业类"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": 0,
+      "recommended_term": "二春",
+      "description": "必修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "B060032050",
+      "course_name": "学科技术前沿讲座",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "三春",
+      "description": "必修",
+      "prerequisites": []
+    }
+  ]
+}

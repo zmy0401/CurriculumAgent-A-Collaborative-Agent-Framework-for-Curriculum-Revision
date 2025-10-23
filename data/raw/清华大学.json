@@ -1,0 +1,1957 @@
+{
+  "university": "清华大学",
+  "major": "计算机科学与技术专业",
+  "year": 2023,
+  "training_objectives": "计算机专业培养实行多学科交叉背景下、通识教育基础上的宽口径专业教育，构建具有专业共性基础的大类课程体系以及具有一定特长的专业核心课程体系，强调对学生进行基本理论、基础知识、基本能力(技能)以及健全人格、综合素质和创新精神培养，培养基础厚、专业面宽、具有自主学习能力的复合型人才，所培养的学生应具有远大的科学抱负和人生理想，培养一批有潜力发展成能够引领计算机学界潮流的“学术大师”或在业界叱咤风云的“兴业之士”的高水平毕业生。",
+  "graduation_reqs": {
+    "total_credits": 160.0,
+    "core_course_credits": null,
+    "elective_credits": null,
+    "other_requirements": null
+  },
+  "courses": [
+    {
+      "course_code": "10680053",
+      "course_name": "思想道德与法治",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680101",
+      "course_name": "形势与政策（1）-秋",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "组1 两组选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680131",
+      "course_name": "形势与政策（2）-春",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680121",
+      "course_name": "形势与政策（1）-春",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "组2",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680111",
+      "course_name": "形势与政策（2）-秋",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10610193",
+      "course_name": "中国近现代史纲要",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680073",
+      "course_name": "马克思主义基本原理",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680022",
+      "course_name": "习近平新时代中国特色社会主义思想概论",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10680092",
+      "course_name": "思政实践",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "建议大一大二暑期选修",
+      "prerequisites": []
+    },
+    {
+      "course_code": "00680201",
+      "course_name": "社会主义发展史（“四史”）",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "思政限选课不排入教学计划，学生根据开课情况自主选择修读学期和课程",
+      "prerequisites": []
+    },
+    {
+      "course_code": "00680221",
+      "course_name": "中国共产党历史（“四史”）",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00680231",
+      "course_name": "中华人民共和国史（“四史”）",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00680211",
+      "course_name": "改革开放史（“四史”）",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00050222",
+      "course_name": "生态文明十五讲",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00691762",
+      "course_name": "当代科学中的哲学问题",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00050071",
+      "course_name": "环境保护与可持续发展",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00670091",
+      "course_name": "新闻中的文化",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10691402",
+      "course_name": "悦读马克思",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00691312",
+      "course_name": "当代法国思想与文化研究",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10691412",
+      "course_name": "孔子和鲁迅",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10691452",
+      "course_name": "媒介史与媒介哲学",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "01030192",
+      "course_name": "教育哲学",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00460072",
+      "course_name": "中国历史地理",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "14700073",
+      "course_name": "西方近代哲学",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10460053",
+      "course_name": "气候变化与全球发展",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00590062",
+      "course_name": "腐败的政治经济学",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00600022",
+      "course_name": "中美贸易争端和全球化重构",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00701162",
+      "course_name": "西方政治制度",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10700043",
+      "course_name": "社会学的想像力：结构、权力与转型",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "02090051",
+      "course_name": "当代国防系列讲座",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "02090091",
+      "course_name": "高技术战争",
+      "credits": 1.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00590043",
+      "course_name": "中国国情与发展",
+      "credits": 3.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00680042",
+      "course_name": "中国政府与政治",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00701344",
+      "course_name": "国际关系分析",
+      "credits": 4.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00701512",
+      "course_name": "中国宏观经济分析",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10700142",
+      "course_name": "现代化与全球化思想研究",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "思想政治理论课",
+        "限选课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "12090052",
+      "course_name": "军事理论",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "军事课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "12090062",
+      "course_name": "军事技能",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "军事课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10691342",
+      "course_name": "写作与沟通",
+      "credits": 2.0,
+      "category": [
+        "校级通识教育课程",
+        "写作与沟通课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10421055",
+      "course_name": "微积分A(1)",
+      "credits": 5.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10421065",
+      "course_name": "微积分A(2)",
+      "credits": 5.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10421324",
+      "course_name": "线性代数",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10421382",
+      "course_name": "高等线性代数选讲",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10421373",
+      "course_name": "概率论与随机过程",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10420803",
+      "course_name": "概率论与数理统计",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10420252",
+      "course_name": "复变函数引论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "20240033",
+      "course_name": "数值分析",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10420854",
+      "course_name": "数学实验",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "20240013",
+      "course_name": "离散数学(1)",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "24100023",
+      "course_name": "离散数学(1)",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "20240023",
+      "course_name": "离散数学(2)",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "24100013",
+      "course_name": "离散数学(2)",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "数学基础课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430484",
+      "course_name": "大学物理B(1)",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "自然科学基础必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "三选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430344",
+      "course_name": "大学物理(1)英",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "自然科学基础必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "三选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10431064",
+      "course_name": "大学物理(1)",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "自然科学基础必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "三选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430494",
+      "course_name": "大学物理B(2)",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "自然科学基础必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "三选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430354",
+      "course_name": "大学物理(2)英",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "自然科学基础必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "三选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430194",
+      "course_name": "大学物理(2)",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "基础课程",
+        "自然科学基础必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "三选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240233",
+      "course_name": "程序设计基础",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "34100063",
+      "course_name": "程序设计基础",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240532",
+      "course_name": "面向对象程序设计基础",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "34100362",
+      "course_name": "面向对象程序设计基础",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240343",
+      "course_name": "数字逻辑电路",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240353",
+      "course_name": "数字逻辑设计",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240551",
+      "course_name": "数字逻辑实验",
+      "credits": 1.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240184",
+      "course_name": "数据结构",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240593",
+      "course_name": "计算机系统概论",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240063",
+      "course_name": "信号处理原理",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "二选一",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30230104",
+      "course_name": "信号与系统",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240513",
+      "course_name": "计算机网络原理",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240354",
+      "course_name": "计算机组成原理",
+      "credits": 4.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240163",
+      "course_name": "软件工程",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240243",
+      "course_name": "操作系统",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240443",
+      "course_name": "计算机系统结构",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240432",
+      "course_name": "形式语言与自动机",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240382",
+      "course_name": "编译原理",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240042",
+      "course_name": "人工智能导论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240573",
+      "course_name": "网络空间安全导论",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业主修课程"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240253",
+      "course_name": "微计算机技术",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240412",
+      "course_name": "数字系统设计自动化",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240222",
+      "course_name": "VLSI设计导论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "汇编语言程序设计",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30230243",
+      "course_name": "通信原理概论",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "数字逻辑",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240572",
+      "course_name": "计算机网络安全技术",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "数字逻辑",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240692",
+      "course_name": "存储技术基础",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240651",
+      "course_name": "高性能计算前沿技术",
+      "credits": 1.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240862",
+      "course_name": "网络安全工程与实践",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240822",
+      "course_name": "计算机网络管理",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "41120012",
+      "course_name": "无线移动网络技术",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "41120032",
+      "course_name": "互联网工程设计",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "41120022",
+      "course_name": "网络编程技术",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240892",
+      "course_name": "现代密码学",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机系统结构课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "20240082",
+      "course_name": "初等数论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "离散数学",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240192",
+      "course_name": "高性能计算导论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240262",
+      "course_name": "数据库系统概论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "数据结构",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240502",
+      "course_name": "软件开发方法",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "C++数据结构",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240751",
+      "course_name": "计算机软件前沿技术",
+      "credits": 1.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240492",
+      "course_name": "数据挖掘",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "数据库系统概论",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240963",
+      "course_name": "量子计算研讨课",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240582",
+      "course_name": "计算理论导引",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40241003",
+      "course_name": "理论计算机科学导论",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240993",
+      "course_name": "计算机辅助设计技术基础",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机软件与理论课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240452",
+      "course_name": "模式识别",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "概率与统计",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240062",
+      "course_name": "数字图像处理",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "概率与统计 程序设计基础",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240392",
+      "course_name": "多媒体技术基础及应用",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "信号处理原理",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240422",
+      "course_name": "计算机图形学基础",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "数据结构",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240402",
+      "course_name": "系统仿真与虚拟现实",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "计算机组成原理",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240462",
+      "course_name": "现代控制技术",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "系统分析与控制",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240372",
+      "course_name": "信息检索",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "数据结构",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240532",
+      "course_name": "机器学习概论",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "人工智能导论",
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240292",
+      "course_name": "人机交互理论与技术",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240312",
+      "course_name": "人工神经网络",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240872",
+      "course_name": "媒体计算",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240762",
+      "course_name": "搜索引擎技术基础",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240013",
+      "course_name": "系统分析与控制",
+      "credits": 3.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240552",
+      "course_name": "嵌入式系统",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240922",
+      "course_name": "人工智能技术与实践",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240952",
+      "course_name": "虚拟现实技术",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专业限选课",
+        "计算机应用技术课组"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240882",
+      "course_name": "计算机网络专题训练",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专题训练"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240402",
+      "course_name": "操作系统专题训练",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专题训练"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240412",
+      "course_name": "编译原理专题训练",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专题训练"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240422",
+      "course_name": "数据库专题训练",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "专业选修课程",
+        "专题训练"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430782",
+      "course_name": "物理实验A(1)",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "自然科学基础选修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430801",
+      "course_name": "物理实验B(1)",
+      "credits": 1.0,
+      "category": [
+        "专业相关课程",
+        "自然科学基础选修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430792",
+      "course_name": "物理实验A(2)",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "自然科学基础选修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "10430811",
+      "course_name": "物理实验B(2)",
+      "credits": 1.0,
+      "category": [
+        "专业相关课程",
+        "自然科学基础选修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30260222",
+      "course_name": "电子学基础",
+      "credits": 2.0,
+      "category": [
+        "专业相关课程",
+        "自然科学基础选修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "31550011",
+      "course_name": "电子学基础实验",
+      "credits": 1.0,
+      "category": [
+        "专业相关课程",
+        "自然科学基础选修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "30240522",
+      "course_name": "程序设计训练",
+      "credits": 2.0,
+      "category": [
+        "专业实践环节",
+        "夏季学期实习实践训练"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "夏季1",
+      "prerequisites": []
+    },
+    {
+      "course_code": "40240972",
+      "course_name": "专业实践",
+      "credits": 2.0,
+      "category": [
+        "专业实践环节",
+        "夏季学期实习实践训练"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": "夏季3",
+      "prerequisites": []
+    }
+  ]
+}

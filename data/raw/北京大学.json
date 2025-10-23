@@ -1,0 +1,938 @@
+{
+  "university": "北京大学",
+  "major": "计算机科学与技术专业",
+  "year": 2023,
+  "training_objectives": "培养学生成为具有“引领未来、守正创新”的精神，具有国际视野和爱国敬业意识，具有“基础厚实、理工交叉、乐于探究、勇于创新”特点，能够成为新一代计算机系统结构、计算机软件和理论、计算机应用技术和人工智能等领域引领计算机科学与技术学科发展创新的领军人才。通过通识与专业相结合的教育，使学生具备坚实的数学、物理、计算机、智能、电子等计算机软硬件基础知识，系统地掌握计算机科学的理论和方法，受到良好的科学思维与科学实践研究的训练，具有探索、发现、分析和解决问题的能力，以及知识自我更新和不断创新的能力，为引领计算机科学与技术发展奠定基础。培养的学生具有正确的人生观和价值观，具有良好的人文和科学素养，具有独立思考、阅读、写作、表达等能力和国际化视野。",
+  "graduation_reqs": {
+    "total_credits": 148.0,
+    "core_course_credits": null,
+    "elective_credits": 39.0,
+    "other_requirements": null
+  },
+  "courses": [
+    {
+      "course_code": "03835xxx",
+      "course_name": "大学英语",
+      "credits": 2.0,
+      "category": [
+        "公共基础课程",
+        "公共必修课"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830041",
+      "course_name": "计算概论A",
+      "credits": 3.0,
+      "category": [
+        "公共基础课程",
+        "公共必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "一上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830050",
+      "course_name": "数据结构与算法A",
+      "credits": 3.0,
+      "category": [
+        "公共基础课程",
+        "公共必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "60730020",
+      "course_name": "军事理论",
+      "credits": 2.0,
+      "category": [
+        "公共基础课程",
+        "公共必修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "一上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830530",
+      "course_name": "计算概论A（实验班）",
+      "credits": 3.0,
+      "category": [
+        "公共基础课程",
+        "公共必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830540",
+      "course_name": "数据结构与算法A （实验班）",
+      "credits": 3.0,
+      "category": [
+        "公共基础课程",
+        "公共必修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": null,
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00132511",
+      "course_name": "高等数学A（I）",
+      "credits": 5.0,
+      "category": [
+        "专业必修课程",
+        "专业基础课"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 32,
+      "recommended_term": "一上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00132512",
+      "course_name": "高等数学A（II）",
+      "credits": 5.0,
+      "category": [
+        "专业必修课程",
+        "专业基础课"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": 32,
+      "recommended_term": "一下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00132611",
+      "course_name": "线性代数A（I）",
+      "credits": 4.0,
+      "category": [
+        "专业必修课程",
+        "专业基础课"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "一上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00132612",
+      "course_name": "线性代数A（II）",
+      "credits": 4.0,
+      "category": [
+        "专业必修课程",
+        "专业基础课"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "一下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830010",
+      "course_name": "信息科学技术概论",
+      "credits": 1.0,
+      "category": [
+        "专业必修课程",
+        "专业基础课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "一上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831750",
+      "course_name": "程序设计实习",
+      "credits": 3.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 32,
+      "recommended_term": "一下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04835230",
+      "course_name": "人工智能基础",
+      "credits": 3.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 16,
+      "recommended_term": "一下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04835310",
+      "course_name": "离散数学基础",
+      "credits": 3.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04833040",
+      "course_name": "计算机系统导论",
+      "credits": 5.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04832363",
+      "course_name": "计算机系统导论讨论班",
+      "credits": 0.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04833050",
+      "course_name": "算法设计与分析",
+      "credits": 5.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 0,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04832580",
+      "course_name": "算法设计与分析（研讨型小班）",
+      "credits": 0.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834260",
+      "course_name": "操作系统",
+      "credits": 4.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "三上/下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830140",
+      "course_name": "计算机组织与体系结构",
+      "credits": 3.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上/下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834200",
+      "course_name": "编译原理",
+      "credits": 4.0,
+      "category": [
+        "专业必修课程",
+        "专业核心课"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "三上/下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00431141",
+      "course_name": "力学B",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "物理与电子类"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "一上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00431143",
+      "course_name": "电磁学B",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "物理与电子类"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "一下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831770",
+      "course_name": "微电子与电路基础",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "物理与电子类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 16,
+      "recommended_term": "一下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04833800",
+      "course_name": "电子系统基础训练",
+      "credits": 1.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "物理与电子类"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 28,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830670",
+      "course_name": "信号与系统",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "物理与电子类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 6,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "00132304",
+      "course_name": "数学分析（III）",
+      "credits": 4.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "理论与算法类"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830080",
+      "course_name": "代数结构与组合数学",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "理论与算法类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830070",
+      "course_name": "集合论与图论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "理论与算法类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830090",
+      "course_name": "数理逻辑",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "理论与算法类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830260",
+      "course_name": "理论计算机科学基础",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "理论与算法类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04833900",
+      "course_name": "密码学基础",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "理论与算法类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834220",
+      "course_name": "软件工程",
+      "credits": 4.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "软件系统类"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "二下/三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830220",
+      "course_name": "数据库概论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "软件系统类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834230",
+      "course_name": "软件测试导论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "软件系统类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830410",
+      "course_name": "信息安全引论",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "软件系统类"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "四上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04833020",
+      "course_name": "软件分析技术",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "软件系统类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834210",
+      "course_name": "计算机网络",
+      "credits": 4.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "系统结构与并行计算类"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": 32,
+      "recommended_term": "三上/下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830145",
+      "course_name": "计算机组织与体系结构实习",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "系统结构与并行计算类"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三上/下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830100",
+      "course_name": "数字逻辑设计",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "系统结构与并行计算类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 2,
+      "recommended_term": "二下/三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04832240",
+      "course_name": "并行与分布式计算导论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "系统结构与并行计算类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04832520",
+      "course_name": "并行程序设计原理",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "系统结构与并行计算类"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 8,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831730",
+      "course_name": "机器学习概论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 8,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834920",
+      "course_name": "计算机视觉导论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04835400",
+      "course_name": "自然语言处理",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 8,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830230",
+      "course_name": "计算机图形学",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830320",
+      "course_name": "数字图像处理",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834760",
+      "course_name": "智能机器人系统导论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834520",
+      "course_name": "强化学习",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "专业选修课",
+        "计算机应用与智能类"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834770",
+      "course_name": "数值分析",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834100",
+      "course_name": "信息科学中的数学",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "二上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834630",
+      "course_name": "Python 程序设计与数据科学导论",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830030",
+      "course_name": "科技交流与写作",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 8,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830340",
+      "course_name": "JAVA 程序设计",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 2,
+      "recommended_term": "二下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834940",
+      "course_name": "量子计算",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04834980",
+      "course_name": "量子信息",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831210",
+      "course_name": "信息论",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831800",
+      "course_name": "数字媒体技术基础",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 4,
+      "recommended_term": "三上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830290",
+      "course_name": "面向对象技术引论",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830760",
+      "course_name": "数字信号处理（含上机）",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 16,
+      "recommended_term": "三下",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830270",
+      "course_name": "程序设计语言概论",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 4,
+      "recommended_term": "四上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04830510",
+      "course_name": "语言统计分析",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "四上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831880",
+      "course_name": "初等数论及其应用",
+      "credits": 3.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 0,
+      "recommended_term": "四上",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "04831890",
+      "course_name": "现代信息检索导论",
+      "credits": 2.0,
+      "category": [
+        "选修课程",
+        "自主选修课"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 0,
+      "recommended_term": "四上",
+      "description": null,
+      "prerequisites": []
+    }
+  ]
+}

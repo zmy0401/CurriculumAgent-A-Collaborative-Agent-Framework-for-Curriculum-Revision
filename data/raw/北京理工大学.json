@@ -1,0 +1,1212 @@
+{
+  "university": "北京理工大学",
+  "major": "计算机科学与技术专业",
+  "year": 2023,
+  "training_objectives": "培养具有高尚的职业道德和社会责任感，基础理论扎实，能系统地应用包括计算机硬件、软件与应用的基本理论、基本知识和基本技能与方法，工程实践能力强，分析和解决问题能力强，知识面宽广的工程型专业技术人才，具备良好的团队沟通能力和一定的领导才能，具有终身学习意识和创新意识，具备国际化视野，能够解决IT领域实际复杂工程问题。毕业的学生可在科研机构、高等院校、政府机关、企事业单位等从事计算机及相关领域的工程研究、技术开发、运行维护、项目管理以及信息服务等工作。经过五年左右的工作实践，本专业培养的学生应满足合格的计算机系统工程师的基本要求，能独立承担复杂工程项目任务，成为项目团队的核心成员或团队负责人。",
+  "graduation_reqs": {
+    "total_credits": 146.5,
+    "core_course_credits": 66.5,
+    "elective_credits": 12.0,
+    "other_requirements": "完成毕业准出课程；通识教育课程68学分，其中人文素质课程至少8学分。"
+  },
+  "courses": [
+    {
+      "course_code": "100245201",
+      "course_name": "学术用途英语（一级）",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100245202",
+      "course_name": "学术用途英语（二级）",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100172103",
+      "course_name": "工科数学分析I",
+      "credits": 6.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100172203",
+      "course_name": "工科数学分析II",
+      "credits": 6.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100172002",
+      "course_name": "线性代数B",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100172003",
+      "course_name": "概率论与数理统计",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100180111",
+      "course_name": "大学物理A（I）",
+      "credits": 4.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100180116",
+      "course_name": "物理实验B（I）",
+      "credits": 1.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100180121",
+      "course_name": "大学物理A（II）",
+      "credits": 4.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100180125",
+      "course_name": "物理实验B（II）",
+      "credits": 1.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270030",
+      "course_name": "习近平新时代中国特色社会主义思想概论",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270001",
+      "course_name": "思想道德修养与法律基础",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270013",
+      "course_name": "中国近现代史纲要",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270003",
+      "course_name": "马克思主义基本原理",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270022",
+      "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "credits": 3.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270005",
+      "course_name": "社会实践",
+      "credits": 2.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100270014-100270021",
+      "course_name": "形势与政策",
+      "credits": 2.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100230057",
+      "course_name": "知识产权法基础",
+      "credits": 1.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100740001",
+      "course_name": "国家安全概论",
+      "credits": 1.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100930005",
+      "course_name": "大学生心理素质发展",
+      "credits": 0.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100320001-100320004",
+      "course_name": "体育",
+      "credits": 2.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": null,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100980003",
+      "course_name": "军事理论",
+      "credits": 2.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100980004",
+      "course_name": "军事技能",
+      "credits": 2.0,
+      "category": [
+        "通识课程",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100051240",
+      "course_name": "电路分析基础",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100070002",
+      "course_name": "大学计算机",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100070018",
+      "course_name": "程序设计基础",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100031150",
+      "course_name": "工程制图C",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100081042",
+      "course_name": "离散数学",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100071015",
+      "course_name": "数据结构与算法设计",
+      "credits": 5.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076201",
+      "course_name": "数字逻辑",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100072107",
+      "course_name": "面向对象技术与方法",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100072103",
+      "course_name": "数据库原理与设计",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076202",
+      "course_name": "计算机系统导论",
+      "credits": 5.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 5.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100071007",
+      "course_name": "操作系统",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100081012",
+      "course_name": "软件工程基础",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076204",
+      "course_name": "计算机组成与体系结构",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100071011",
+      "course_name": "计算机网络",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076203",
+      "course_name": "汇编语言与接口技术",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074320",
+      "course_name": "编译原理与设计",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076108",
+      "course_name": "卓越工程综合训练",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 6.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076103",
+      "course_name": "程序设计方法与实践",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业课"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "3实践周",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076104",
+      "course_name": "Web开发基础",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业课"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "3实践周",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100073003",
+      "course_name": "计算机专业基础实习",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业课"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "5实践周",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076105",
+      "course_name": "大数据系统开发",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业课"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "5实践周",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076106",
+      "course_name": "汇编与接口课程设计",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业课"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "7实践周",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076107",
+      "course_name": "计算机组成原理课程设计",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "一般专业课"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": null,
+      "recommended_term": "7实践周",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100083017",
+      "course_name": "毕业设计（论文）",
+      "credits": 8.0,
+      "category": [
+        "专业课程",
+        "必修"
+      ],
+      "hours_per_week": 8.0,
+      "practice_hours": null,
+      "recommended_term": "8",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100086022",
+      "course_name": "数值分析",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": [
+        "工科数学分析",
+        "概率论与数理统计",
+        "离散数学",
+        "数据结构与算法设计",
+        "程序设计基础"
+      ]
+    },
+    {
+      "course_code": "100074801",
+      "course_name": "Java语言程序设计",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074701",
+      "course_name": "组合数学",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074702",
+      "course_name": "最优化方法",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074105",
+      "course_name": "Android技术开发基础",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074407",
+      "course_name": "知识工程",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": [
+        "程序设计基础",
+        "线性代数",
+        "工科数学分析",
+        "概率论与数理统计"
+      ]
+    },
+    {
+      "course_code": "100076210",
+      "course_name": "复杂度理论与近似算法",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076211",
+      "course_name": "算法博弈论",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074408",
+      "course_name": "网络与通信",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076212",
+      "course_name": "密码学基础",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076213",
+      "course_name": "计算机图形学",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": [
+        "数据结构和算法设计"
+      ]
+    },
+    {
+      "course_code": "100074506",
+      "course_name": "现代人机交互",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100086024",
+      "course_name": "人工智能基础",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": [
+        "工科数学分析",
+        "概率论与数理统计",
+        "离散数学",
+        "数据结构与算法设计",
+        "程序设计基础"
+      ]
+    },
+    {
+      "course_code": "100074301",
+      "course_name": "自然语言理解初步",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074304",
+      "course_name": "计算机新技术专题",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074103",
+      "course_name": "软件测试与质量保证",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074104",
+      "course_name": "移动互联系统分析与设计",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076214",
+      "course_name": "强化学习",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": [
+        "程序设计基础",
+        "数据结构与算法"
+      ]
+    },
+    {
+      "course_code": "100076215",
+      "course_name": "语音识别与合成",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": [
+        "概率论",
+        "编程",
+        "高等数学"
+      ]
+    },
+    {
+      "course_code": "100074406",
+      "course_name": "安全协议设计与分析",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074602",
+      "course_name": "计算机仿真与Matlab",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076217",
+      "course_name": "数字图像处理",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076218",
+      "course_name": "数据科学",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074803",
+      "course_name": "Linux系统编程",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074302",
+      "course_name": "机器学习初步",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076219",
+      "course_name": "智能计算工程实践",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": [
+        "工科数学分析",
+        "算法分析设计",
+        "数据结构",
+        "线性代数"
+      ]
+    },
+    {
+      "course_code": "100074403",
+      "course_name": "网络与信息安全",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": [
+        "程序设计",
+        "操作系统"
+      ]
+    },
+    {
+      "course_code": "100076220",
+      "course_name": "虚拟现实技术",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074604",
+      "course_name": "计算摄像学",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076221",
+      "course_name": "高性能科学计算",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076222",
+      "course_name": "网络新技术前沿",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076223",
+      "course_name": "深度学习基础",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074101",
+      "course_name": "数字图书馆技术",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074335",
+      "course_name": "创新创业实践",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100074205",
+      "course_name": "系统能力培养综合实践",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "100076224",
+      "course_name": "形式语义与形式说明",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "选修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": [
+        "编译原理"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "university": "浙江大学",
+  "major": "计算机科学与技术",
+  "year": 2024,
+  "training_objectives": "本专业旨在培养服务于国民经济建设和社会进步发展需要，德智体美劳全面发展，具有健全的人格、良好的人文社会科学素质和职业道德素养、较强的社会责任感和担当意识，基础宽厚，知识、能力、素质俱佳，富有创新精神和创新能力，具有全球化视野，在计算机科学与技术专业及其相关领域具有国际竞争力的创新人才和未来领导者。毕业后5年左右，学生在计算机及相关领域中成为工程应用的技术骨干或科学研究的中坚力量。",
+  "graduation_reqs": {
+    "total_credits": 162.5,
+    "core_course_credits": 34.0,
+    "elective_credits": 18.0,
+    "other_requirements": "最低毕业学分154.5+8，授予工学学士学位"
+  },
+  "courses": [
+    {
+      "course_code": "ADMN1001G",
+      "course_name": "军训",
+      "credits": 2.0,
+      "category": [
+        "通识课程",
+        "军体类",
+        "必修课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 168,
+      "recommended_term": "一(秋)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "ADMN1002G",
+      "course_name": "形势与政策Ⅰ",
+      "credits": 1.0,
+      "category": [
+        "通识课程",
+        "思政类",
+        "必修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "一(秋冬)+一(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "ADMN2001G",
+      "course_name": "形势与政策Ⅱ",
+      "credits": 1.0,
+      "category": [
+        "通识课程",
+        "思政类",
+        "必修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "四(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS1001G",
+      "course_name": "C程序设计基础及实验",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 80,
+      "recommended_term": "一(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS1017F",
+      "course_name": "离散数学及其应用",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 64,
+      "recommended_term": "一(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS1018F",
+      "course_name": "数据结构基础",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "一(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS1019F",
+      "course_name": "数字逻辑设计",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 80,
+      "recommended_term": "一(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS1030M",
+      "course_name": "课程综合实践Ⅰ",
+      "credits": 2.5,
+      "category": [
+        "专业核心实践"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": 80,
+      "recommended_term": "一(短)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS2020F",
+      "course_name": "面向对象程序设计",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "二(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS2045M",
+      "course_name": "高级数据结构与算法分析",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 80,
+      "recommended_term": "二(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS2051M",
+      "course_name": "计算机体系结构",
+      "credits": 3.5,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": 72,
+      "recommended_term": "二(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS2055M",
+      "course_name": "计算机组成",
+      "credits": 4.5,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 3.5,
+      "practice_hours": 88,
+      "recommended_term": "二(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS2058M",
+      "course_name": "课程综合实践Ⅱ",
+      "credits": 2.5,
+      "category": [
+        "专业核心实践"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": 80,
+      "recommended_term": "二(短)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS2089M",
+      "course_name": "数据库系统",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 80,
+      "recommended_term": "二(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3103M",
+      "course_name": "操作系统",
+      "credits": 5.0,
+      "category": [
+        "专业课程",
+        "专业必修课程"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 96,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3100M",
+      "course_name": "编译原理",
+      "credits": 4.0,
+      "category": [
+        "专业核心课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 80,
+      "recommended_term": "三(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3123M",
+      "course_name": "工程实践",
+      "credits": 3.0,
+      "category": [
+        "实践教学环节"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 96,
+      "recommended_term": "三(短)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3129M",
+      "course_name": "计算机动画",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "三(秋)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3132M",
+      "course_name": "计算机视觉",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3135M",
+      "course_name": "计算机图形学研究进展",
+      "credits": 4.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 80,
+      "recommended_term": "三(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3136M",
+      "course_name": "计算机网络",
+      "credits": 4.5,
+      "category": [
+        "专业核心课程"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": 96,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3140M",
+      "course_name": "计算理论",
+      "credits": 2.0,
+      "category": [
+        "专业核心课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3142M",
+      "course_name": "计算医疗",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(秋)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3144M",
+      "course_name": "技术沟通",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3146M",
+      "course_name": "开源软件",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3153M",
+      "course_name": "量子计算理论基础与软件系统",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 64,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3157M",
+      "course_name": "嵌入式系统",
+      "credits": 3.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 64,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3159M",
+      "course_name": "软件安全原理和实践",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.5,
+      "practice_hours": 40,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3162M",
+      "course_name": "软件工程",
+      "credits": 2.5,
+      "category": [
+        "专业核心课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "三(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3165M",
+      "course_name": "软件工程",
+      "credits": 2.5,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "三(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3179M",
+      "course_name": "数据可视化导论",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3182M",
+      "course_name": "数据挖掘导论",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": 48,
+      "recommended_term": "三(夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3186M",
+      "course_name": "算法设计与分析",
+      "credits": 2.5,
+      "category": [
+        "全英文课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 48,
+      "recommended_term": "三(夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3206M",
+      "course_name": "虚拟现实与数字娱乐",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "四(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3213M",
+      "course_name": "职业发展规划讲座",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": 32,
+      "recommended_term": "三(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3216M",
+      "course_name": "智能视觉信息采集",
+      "credits": 2.5,
+      "category": [
+        "全英文课程",
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.5,
+      "practice_hours": 56,
+      "recommended_term": "三(秋)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3219M",
+      "course_name": "专题研讨",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "三(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3221M",
+      "course_name": "自然语言处理导论",
+      "credits": 3.5,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 2.5,
+      "practice_hours": 72,
+      "recommended_term": "三(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3224M",
+      "course_name": "大数据分析与应用",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": 48,
+      "recommended_term": "四(秋)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS3225M",
+      "course_name": "计算机前沿技术讲座",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": 16,
+      "recommended_term": "四(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS4222M",
+      "course_name": "毕业论文（设计）",
+      "credits": 8.0,
+      "category": [
+        "个性修读课程"
+      ],
+      "hours_per_week": 10.0,
+      "practice_hours": 320,
+      "recommended_term": "四(春夏)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS4224M",
+      "course_name": "大数据分析与应用",
+      "credits": 2.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": 48,
+      "recommended_term": "四(秋)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS4226M",
+      "course_name": "计算机前沿技术讲座",
+      "credits": 1.0,
+      "category": [
+        "专业课程",
+        "专业选修课程"
+      ],
+      "hours_per_week": 1.0,
+      "practice_hours": 16,
+      "recommended_term": "四(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS4227M",
+      "course_name": "科研实践Ⅰ",
+      "credits": 2.0,
+      "category": [
+        "专业核心实践"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": 32,
+      "recommended_term": "四(秋冬)",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CS4228M",
+      "course_name": "科研实践Ⅱ",
+      "credits": 4.0,
+      "category": [
+        "专业核心实践"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": 64,
+      "recommended_term": "四(秋冬)",
+      "description": null,
+      "prerequisites": []
+    }
+  ]
+}

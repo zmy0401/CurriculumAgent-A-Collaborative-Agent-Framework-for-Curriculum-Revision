@@ -1,0 +1,1414 @@
+{
+  "university": "华中科技大学",
+  "major": "计算机科学与技术专业",
+  "year": 2022,
+  "training_objectives": "本专业培养具有社会主义核心价值观、强烈社会责任感和使命感、适应社会经济和我国信息产业自主可控战略发展需求，扎实的数学、自然科学、工程基础和计算机科学与技术专业知识与能力，创新精神与实践能力强，系统能力突出，具有良好人文素养、大工程观、团队精神、国际视野和可持续竞争力。毕业后能从事计算机领域相关的研究、设计、开发与管理工作，能解决计算机领域复杂工程问题。工作五年左右，可成为单位、领域或行业的技术骨干或业界精英。",
+  "graduation_reqs": {
+    "total_credits": 154.0,
+    "core_course_credits": 34.25,
+    "elective_credits": 20.0,
+    "other_requirements": "完成学业最低课外学分要求：8"
+  },
+  "courses": [
+    {
+      "course_code": "MAX0022",
+      "course_name": "思想道德与法治",
+      "credits": 2.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAX0042",
+      "course_name": "中国近现代史纲要",
+      "credits": 2.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAX0013",
+      "course_name": "马克思主义基本原理",
+      "credits": 2.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAX0072",
+      "course_name": "习近平新时代中国特色社会主义思想概论",
+      "credits": 3.0,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAX0063",
+      "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "credits": 3.0,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAX0032",
+      "course_name": "形势与政策",
+      "credits": 1.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "4-6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CH0001",
+      "course_name": "中国语文",
+      "credits": 2.0,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "SFL0001",
+      "course_name": "综合英语（一）",
+      "credits": 3.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 56.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "SFL0011",
+      "course_name": "综合英语（二）",
+      "credits": 3.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 56.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "RMWZ0002",
+      "course_name": "军事理论",
+      "credits": 2.0,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 36.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHE0002",
+      "course_name": "大学体育（一）",
+      "credits": 1.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 60.0,
+      "practice_hours": null,
+      "recommended_term": "1-2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHE0012",
+      "course_name": "大学体育（二）",
+      "credits": 1.5,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 60.0,
+      "practice_hours": null,
+      "recommended_term": "3-4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHE0022",
+      "course_name": "大学体育（三）",
+      "credits": 1.0,
+      "category": [
+        "素质教育通识课程",
+        "必修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "5-6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0721",
+      "course_name": "信息技术导论（IT 中国）",
+      "credits": 1.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0511",
+      "course_name": "C 语言程序设计",
+      "credits": 3.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0521",
+      "course_name": "C 语言程序设计实验",
+      "credits": 1.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAT0551",
+      "course_name": "微积分（一）上",
+      "credits": 5.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 88.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAT0721",
+      "course_name": "线性代数",
+      "credits": 2.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHY0511",
+      "course_name": "大学物理（一）",
+      "credits": 4.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 64.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHY0551",
+      "course_name": "物理实验（一）",
+      "credits": 1.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAT0531",
+      "course_name": "微积分（一）下",
+      "credits": 5.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 88.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "MAT0591",
+      "course_name": "概率论与数理统计",
+      "credits": 2.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHY0521",
+      "course_name": "大学物理（二）",
+      "credits": 4.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 64.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "PHY0561",
+      "course_name": "物理实验（二）",
+      "credits": 0.75,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "EEE0641",
+      "course_name": "电路理论（三）",
+      "credits": 4.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 64.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0641",
+      "course_name": "数字电路与逻辑设计（一）",
+      "credits": 3.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0652",
+      "course_name": "数字电路与逻辑设计实验",
+      "credits": 0.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 16.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0661",
+      "course_name": "信号与线性系统",
+      "credits": 2.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0541",
+      "course_name": "计算机通信与网络",
+      "credits": 2.5,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0551",
+      "course_name": "计算机通信与网络实践",
+      "credits": 1.0,
+      "category": [
+        "学科大类基础课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2171",
+      "course_name": "离散数学（一）",
+      "credits": 2.5,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2261",
+      "course_name": "数据结构",
+      "credits": 3.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2272",
+      "course_name": "数据结构实验",
+      "credits": 1.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "2",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2161",
+      "course_name": "离散数学（二）",
+      "credits": 2.5,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2261",
+      "course_name": "算法设计与分析",
+      "credits": 2.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2421",
+      "course_name": "算法设计与分析实践",
+      "credits": 0.75,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5161",
+      "course_name": "计算机系统基础",
+      "credits": 2.5,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0041",
+      "course_name": "计算机系统基础实验",
+      "credits": 1.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2141",
+      "course_name": "计算机组成原理",
+      "credits": 3.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2151",
+      "course_name": "计算机组成原理实验",
+      "credits": 0.5,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 16.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2281",
+      "course_name": "数据库系统原理",
+      "credits": 3.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2291",
+      "course_name": "数据库系统原理实践",
+      "credits": 1.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2032",
+      "course_name": "操作系统原理",
+      "credits": 3.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2041",
+      "course_name": "操作系统原理实验",
+      "credits": 0.5,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 16.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2231",
+      "course_name": "软件工程",
+      "credits": 2.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2011",
+      "course_name": "编译原理",
+      "credits": 3.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2021",
+      "course_name": "编译原理实验",
+      "credits": 1.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST2131",
+      "course_name": "计算机系统结构",
+      "credits": 2.0,
+      "category": [
+        "专业核心课程",
+        "必修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5181",
+      "course_name": "计算思维",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5581",
+      "course_name": "新生实践课",
+      "credits": 1.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5012",
+      "course_name": "C++ 程序设计",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5601",
+      "course_name": "C++ 程序设计实验",
+      "credits": 0.75,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0201",
+      "course_name": "Python 大数据与人工智能实践",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5481",
+      "course_name": "人工智能导论",
+      "credits": 1.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5491",
+      "course_name": "大数据导论",
+      "credits": 1.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5211",
+      "course_name": "命令式计算原理",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5021",
+      "course_name": "JAVA 语言程序设计",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5631",
+      "course_name": "JAVA 语言程序设计实验",
+      "credits": 0.75,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5041",
+      "course_name": "Verilog 语言",
+      "credits": 1.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5461",
+      "course_name": "游戏设计与开发概论",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5611",
+      "course_name": "大数据分析",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0071",
+      "course_name": "大数据分析实验",
+      "credits": 0.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 16.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5144",
+      "course_name": "机器学习",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0171",
+      "course_name": "WEB 前端开发（IT 生态课程）",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0191",
+      "course_name": "游戏设计与开发腾讯菁英课（IT 生态课程）",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5511",
+      "course_name": "大数据管理",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0101",
+      "course_name": "大数据管理实验",
+      "credits": 0.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 16.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5522",
+      "course_name": "计算机视觉",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5281",
+      "course_name": "数值分析",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5171",
+      "course_name": "计算理论",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5191",
+      "course_name": "接口技术",
+      "credits": 3.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 48.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0021",
+      "course_name": "网络空间安全概论",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5151",
+      "course_name": "计算机图形学",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5121",
+      "course_name": "函数式编程原理",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0211",
+      "course_name": "企业级工程设计与实践（IT 生态课程）",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0221",
+      "course_name": "可信软件开发（IT 生态课程）",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5551",
+      "course_name": "自然语言处理",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0111",
+      "course_name": "大数据处理系统",
+      "credits": 2.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 40.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0121",
+      "course_name": "大数据处理系统实验",
+      "credits": 0.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 16.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5231",
+      "course_name": "嵌入式系统",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5461",
+      "course_name": "云计算与虚拟化",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST0031",
+      "course_name": "大数据存储与管理",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5291",
+      "course_name": "数字图像处理",
+      "credits": 1.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5051",
+      "course_name": "并行编程原理与实践",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5381",
+      "course_name": "信息存储技术（IT 生态课程）",
+      "credits": 1.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5301",
+      "course_name": "搜索引擎技术基础",
+      "credits": 1.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5431",
+      "course_name": "移动客户端开发（IT 生态课程）",
+      "credits": 1.5,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 24.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5621",
+      "course_name": "图神经网络导论",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST5261",
+      "course_name": "社会网络与计算",
+      "credits": 2.0,
+      "category": [
+        "专业选修课程",
+        "选修"
+      ],
+      "hours_per_week": 32.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "RMWZ3511",
+      "course_name": "军事训练",
+      "credits": 1.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "1",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "ENG3551",
+      "course_name": "工程训练（七）",
+      "credits": 1.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "4",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3531",
+      "course_name": "程序设计综合课程设计",
+      "credits": 1.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "3",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3661",
+      "course_name": "硬件综合训练",
+      "credits": 1.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3521",
+      "course_name": "操作系统课程设计",
+      "credits": 1.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 2.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3601",
+      "course_name": "生产实习",
+      "credits": 1.5,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 3.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3541",
+      "course_name": "系统能力培养综合实践",
+      "credits": 2.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3681",
+      "course_name": "科技创新活动（一）",
+      "credits": 2.0,
+      "category": [
+        "实践环节",
+        "选修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "5",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3691",
+      "course_name": "科技创新活动（二）",
+      "credits": 2.0,
+      "category": [
+        "实践环节",
+        "选修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "6",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3701",
+      "course_name": "科技创新活动（三）",
+      "credits": 2.0,
+      "category": [
+        "实践环节",
+        "选修"
+      ],
+      "hours_per_week": 4.0,
+      "practice_hours": null,
+      "recommended_term": "7",
+      "description": null,
+      "prerequisites": []
+    },
+    {
+      "course_code": "CST3511",
+      "course_name": "毕业设计（论文）",
+      "credits": 7.0,
+      "category": [
+        "实践环节",
+        "必修"
+      ],
+      "hours_per_week": 14.0,
+      "practice_hours": null,
+      "recommended_term": "8",
+      "description": null,
+      "prerequisites": []
+    }
+  ]
+}
