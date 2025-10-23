@@ -15,5 +15,5 @@ This work proposes CurriculumAgent, a multi-agent system designed to automate an
 
 ## Status
 
-The paper associated with this repository is currently under peer review. The code and complete datasets will be made publicly available upon acceptance.
+The code and complete datasets will be made publicly available upon acceptance.
 
