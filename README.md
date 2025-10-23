@@ -9,7 +9,7 @@ This work proposes CurriculumAgent, a multi-agent system designed to automate an
 ## Repository Structure
 
 * `/data/`: Contains datasets used in the study. 
-* `/code/` (or `/src/`): *(Coming soon)* Source code for the CurriculumAgent framework. 
+* `/code/` : *(Coming soon)* Source code for the CurriculumAgent framework. 
 * `LICENSE`: The MIT License governing the use of materials in this repository.
 * `README.md`: This file.
 
